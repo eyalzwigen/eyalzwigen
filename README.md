@@ -26,6 +26,8 @@ In the future, I also plan to expand into robotics, embedded systems, and engine
 
 ### Frameworks & Technologies
 
+- Django
+- Wagtail CMS
 - Next.js
 - React
 - Node.js
