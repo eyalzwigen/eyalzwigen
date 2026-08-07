@@ -89,5 +89,7 @@ I'm currently focused on building my own projects and gaining experience. Open-s
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/eyal-zwigenbom-837aa7365/
 - Email: eyalzwig@gmail.com
+- LinkedIn: https://www.linkedin.com/in/eyal-zwigenbom-837aa7365/
+- HackTheBox: https://profile.hackthebox.com/profile/019fb2d7-3d70-7358-9143-9605d8239d7b
+- TryHackMe: https://tryhackme.com/p/eyalzwig
