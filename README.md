@@ -19,7 +19,7 @@ In the future, I also plan to expand into robotics, embedded systems, and engine
 ### Languages
 
 - Python
-- TypeScript/JavaScript
+- TypeScript
 - C#
 - C
 
