@@ -34,6 +34,7 @@ In the future, I also plan to expand into robotics, embedded systems, and engine
 - Socket.IO
 - Docker
 - Supabase
+- LangChain
 
 ### Cybersecurity
 
@@ -60,7 +61,8 @@ In the future, I also plan to expand into robotics, embedded systems, and engine
 
 ## Open Source
 
-I'm currently focused on building my own projects and gaining experience. Open-source contributions and projects are coming soon.
+- A simple wrapper in Python that shortens the process of making TCP clients and servers.
+- Making a simple wrapper in C that makes network programming easier.
 
 ---
 
@@ -72,6 +74,7 @@ I'm currently focused on building my own projects and gaining experience. Open-s
 - Linux Internals
 - Computer Science
 - Backend Engineering
+- Autonomous Agents Development
 
 ---
 
