@@ -69,11 +69,9 @@ I'm currently focused on building my own projects and gaining experience. Open-s
 - Web Application Penetration Testing
 - Secure Backend Architecture
 - Network Security
-- Reverse Engineering
 - Linux Internals
-- Computer Science & Physics
+- Computer Science
 - Backend Engineering
-- DJing 🎧
 
 ---
 
